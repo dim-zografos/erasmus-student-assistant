@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Erasmus Assistant</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/assets/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="chat-panel" aria-label="Erasmus assistant chat">
+        <header class="topbar">
+          <div>
+            <h1>Erasmus Assistant</h1>
+            <p>Answers from the stored university Erasmus data.</p>
+          </div>
+          <div class="status" id="status">Checking data</div>
+        </header>
+
+        <section class="messages" id="messages">
+          <article class="message assistant">
+            <div class="bubble">
+              Ask about Erasmus partner universities, deadlines, requirements, documents, studies, or traineeships.
+            </div>
+          </article>
+        </section>
+
+        <form class="composer" id="ask-form">
+          <textarea id="question" rows="3" placeholder="Example: Which universities in Italy can I go to from University of Thessaly?"></textarea>
+          <button type="submit" id="ask-button">Ask</button>
+        </form>
+      </section>
+
+      <aside class="side-panel" aria-label="Retrieved evidence">
+        <section>
+          <h2>Sources</h2>
+          <div id="sources" class="list empty">No sources yet.</div>
+        </section>
+        <section>
+          <h2>Agreements</h2>
+          <div id="agreements" class="list empty">No agreement rows yet.</div>
+        </section>
+      </aside>
+    </main>
+
+    <script src="/assets/app.js"></script>
+  </body>
+</html>

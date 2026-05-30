@@ -1,0 +1,1 @@
+"""Erasmus information discovery package."""

@@ -1,0 +1,218 @@
+[
+  {
+    "key": "uoa",
+    "name": "National and Kapodistrian University of Athens",
+    "country": "Greece",
+    "city": "Athens",
+    "base_erasmus_url": "https://en.interel.uoa.gr/erasmus",
+    "allowed_domains": ["en.interel.uoa.gr"],
+    "enabled": true
+  },
+  {
+    "key": "ntua",
+    "name": "National Technical University of Athens",
+    "country": "Greece",
+    "city": "Athens",
+    "base_erasmus_url": "http://erasmus.ntua.gr/en/",
+    "allowed_domains": ["erasmus.ntua.gr"],
+    "enabled": true
+  },
+  {
+    "key": "auth",
+    "name": "Aristotle University of Thessaloniki",
+    "country": "Greece",
+    "city": "Thessaloniki",
+    "base_erasmus_url": "https://eurep.auth.gr/en",
+    "allowed_domains": ["eurep.auth.gr"],
+    "enabled": true
+  },
+  {
+    "key": "aueb",
+    "name": "Athens University of Economics and Business",
+    "country": "Greece",
+    "city": "Athens",
+    "base_erasmus_url": "https://www.aueb.gr/en/erasmus",
+    "allowed_domains": ["www.aueb.gr"],
+    "enabled": true
+  },
+  {
+    "key": "aua",
+    "name": "Agricultural University of Athens",
+    "country": "Greece",
+    "city": "Athens",
+    "base_erasmus_url": "http://www.european.aua.gr/",
+    "allowed_domains": ["www.european.aua.gr"],
+    "enabled": true
+  },
+  {
+    "key": "asfa",
+    "name": "Athens School of Fine Arts",
+    "country": "Greece",
+    "city": "Athens",
+    "base_erasmus_url": "https://www.asfa.gr/diethni/erasmus/",
+    "allowed_domains": ["www.asfa.gr"],
+    "enabled": true
+  },
+  {
+    "key": "panteion",
+    "name": "Panteion University",
+    "country": "Greece",
+    "city": "Athens",
+    "base_erasmus_url": "https://erasmus.panteion.gr/",
+    "allowed_domains": ["erasmus.panteion.gr"],
+    "enabled": true
+  },
+  {
+    "key": "unipi",
+    "name": "University of Piraeus",
+    "country": "Greece",
+    "city": "Piraeus",
+    "base_erasmus_url": "https://www.unipi.gr/tmhma-diethnwn-kai-dhmosiwn-sxesewn/erasmus-plus/",
+    "allowed_domains": ["www.unipi.gr"],
+    "enabled": true
+  },
+  {
+    "key": "uom",
+    "name": "University of Macedonia",
+    "country": "Greece",
+    "city": "Thessaloniki",
+    "base_erasmus_url": "https://www.uom.gr/en/erasmus-office",
+    "allowed_domains": ["www.uom.gr"],
+    "enabled": true
+  },
+  {
+    "key": "upatras",
+    "name": "University of Patras",
+    "country": "Greece",
+    "city": "Patras",
+    "base_erasmus_url": "https://www.upatras.gr/international-relations/erasmus/",
+    "allowed_domains": ["www.upatras.gr"],
+    "enabled": true
+  },
+  {
+    "key": "uoi",
+    "name": "University of Ioannina",
+    "country": "Greece",
+    "city": "Ioannina",
+    "base_erasmus_url": "https://piro.uoi.gr/erasmus/",
+    "allowed_domains": ["piro.uoi.gr"],
+    "enabled": true
+  },
+  {
+    "key": "duth",
+    "name": "Democritus University of Thrace",
+    "country": "Greece",
+    "city": "Komotini",
+    "base_erasmus_url": "https://erasmus.duth.gr/",
+    "allowed_domains": ["erasmus.duth.gr"],
+    "enabled": true
+  },
+  {
+    "key": "uoc",
+    "name": "University of Crete",
+    "country": "Greece",
+    "city": "Rethymno / Heraklion",
+    "base_erasmus_url": "https://erasmus.uoc.gr/",
+    "allowed_domains": ["erasmus.uoc.gr"],
+    "enabled": true
+  },
+  {
+    "key": "tuc",
+    "name": "Technical University of Crete",
+    "country": "Greece",
+    "city": "Chania",
+    "base_erasmus_url": "https://www.tuc.gr/en/studies/erasmus-programme",
+    "allowed_domains": ["www.tuc.gr"],
+    "enabled": true
+  },
+  {
+    "key": "aegean",
+    "name": "University of the Aegean",
+    "country": "Greece",
+    "city": "Mytilene",
+    "base_erasmus_url": "https://erasmus.aegean.gr/",
+    "allowed_domains": ["erasmus.aegean.gr"],
+    "enabled": true
+  },
+  {
+    "key": "ionio",
+    "name": "Ionian University",
+    "country": "Greece",
+    "city": "Corfu",
+    "base_erasmus_url": "https://international.ionio.gr/en/erasmus/",
+    "allowed_domains": ["international.ionio.gr"],
+    "enabled": true
+  },
+  {
+    "key": "uth",
+    "name": "University of Thessaly",
+    "country": "Greece",
+    "city": "Volos",
+    "base_erasmus_url": "https://erasmus.uth.gr/en/",
+    "allowed_domains": ["erasmus.uth.gr"],
+    "enabled": true
+  },
+  {
+    "key": "hua",
+    "name": "Harokopio University of Athens",
+    "country": "Greece",
+    "city": "Athens",
+    "base_erasmus_url": "https://erasmus.hua.gr/",
+    "allowed_domains": ["erasmus.hua.gr"],
+    "enabled": true
+  },
+  {
+    "key": "uop",
+    "name": "University of the Peloponnese",
+    "country": "Greece",
+    "city": "Tripoli",
+    "base_erasmus_url": "https://erasmus.uop.gr/",
+    "allowed_domains": ["erasmus.uop.gr"],
+    "enabled": true
+  },
+  {
+    "key": "uowm",
+    "name": "University of Western Macedonia",
+    "country": "Greece",
+    "city": "Kozani",
+    "base_erasmus_url": "https://erasmus.uowm.gr/",
+    "allowed_domains": ["erasmus.uowm.gr"],
+    "enabled": true
+  },
+  {
+    "key": "eap",
+    "name": "Hellenic Open University",
+    "country": "Greece",
+    "city": "Patras",
+    "base_erasmus_url": "https://erasmusplus.eap.gr/welcome",
+    "allowed_domains": ["erasmusplus.eap.gr"],
+    "enabled": true
+  },
+  {
+    "key": "ihu",
+    "name": "International Hellenic University",
+    "country": "Greece",
+    "city": "Thessaloniki",
+    "base_erasmus_url": "https://www.ihu.gr/monades/intprogrs",
+    "allowed_domains": ["www.ihu.gr"],
+    "enabled": true
+  },
+  {
+    "key": "uniwa",
+    "name": "University of West Attica",
+    "country": "Greece",
+    "city": "Athens",
+    "base_erasmus_url": "https://erasmus.uniwa.gr/",
+    "allowed_domains": ["erasmus.uniwa.gr"],
+    "enabled": true
+  },
+  {
+    "key": "hmu",
+    "name": "Hellenic Mediterranean University",
+    "country": "Greece",
+    "city": "Heraklion",
+    "base_erasmus_url": "https://iro.hmu.gr/",
+    "allowed_domains": ["iro.hmu.gr"],
+    "enabled": true
+  }
+]

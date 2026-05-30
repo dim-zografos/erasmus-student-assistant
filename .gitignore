@@ -1,0 +1,51 @@
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+erasmus_discovery/.env
+erasmus_assistant/.env
+
+# Python virtual environments
+.venv/
+venv/
+env/
+erasmus_discovery/.venv/
+erasmus_assistant/.venv/
+
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Generated discovery data
+erasmus_discovery/data/*
+!erasmus_discovery/data/.gitkeep
+erasmus_discovery/chroma_db/*
+!erasmus_discovery/chroma_db/.gitkeep
+*.db
+*.sqlite
+*.sqlite3
+
+# Runtime logs and temporary outputs
+run_logs/
+erasmus_discovery/run_logs/
+erasmus_assistant/run_logs/
+*.log
+
+# Local uploaded/downloaded source artifacts
+*.tmp
+*.bak
+~$*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
